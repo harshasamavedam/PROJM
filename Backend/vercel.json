@@ -4,7 +4,7 @@
       {
         "src": "start.js",
        
-        "use": "express/node"
+        "use": "vercel/node"
       }
     ],
     "routes": [

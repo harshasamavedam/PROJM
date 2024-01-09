@@ -7,7 +7,7 @@ app.use(express.json())
 app.use(cros())
 
 const db=sql.createConnection({
-    host: 127.0.0.1,
+    host: '127.0.0.1',
     user:'root',
     password:'19B91a02i3@',
     database:'ecnomizer'
